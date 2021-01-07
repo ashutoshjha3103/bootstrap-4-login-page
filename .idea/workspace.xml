@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db0750db-76cc-4c47-94b9-6cf2b74c9319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/login.html" afterDir="false" />
+    <list default="true" id="db0750db-76cc-4c47-94b9-6cf2b74c9319" name="Default Changelist" comment="test l0gin page">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,21 @@
       <option name="presentableId" value="Default" />
       <updated>1610000693777</updated>
     </task>
+    <task id="LOCAL-00001" summary="test l0gin page">
+      <created>1610002571298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610002571298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test l0gin page">
+      <created>1610002649290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610002649290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test l0gin page" />
+    <option name="LAST_COMMIT_MESSAGE" value="test l0gin page" />
   </component>
 </project>
