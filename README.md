@@ -13,10 +13,8 @@ My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it'
 Let's make it easy! Just download this template, use it on your project.
 
 # Demo
-- [Login](https://nauvalazhar.github.io/bootstrap-4-login-page/index.html)
-- [Register](https://nauvalazhar.github.io/bootstrap-4-login-page/register.html)
-- [Forgot Password](https://nauvalazhar.github.io/bootstrap-4-login-page/forgot.html)
-- [Reset Password](https://nauvalazhar.github.io/bootstrap-4-login-page/reset.html)
+- To access the login page, Just open the index.html with a browser, once you type any random username and pwd which satisfies the conditions, you will be redirected to the example table. Thank You!
+- Example: Username: admin@admin Pwd: 1234
 
 # Features
 - Bootstrap 4.1.3
